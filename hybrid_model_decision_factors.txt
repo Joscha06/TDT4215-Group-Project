@@ -5,3 +5,4 @@ type_impression
 type_history
 user_in_train
 percent_impression_items_in_train
+
